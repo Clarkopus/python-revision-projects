@@ -1,0 +1,4 @@
+the word was: poop
+The line contained 0 spaces
+The number of occurrences of o was 2
+The number of occurrences of p was 2
