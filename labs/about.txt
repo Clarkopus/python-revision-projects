@@ -1,0 +1,3 @@
+Used to store all the programming labs I did during term 1
+
+Or at least the ones I have done for revision reasons
